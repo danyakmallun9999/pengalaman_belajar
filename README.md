@@ -9,3 +9,6 @@ Belajar pemrograman terstruktur menggunakan python
 Hari selanjutnya
 * Belajar mengenai percabangan pada bahasa python
 * Belajar mengenai pengulangan pada bahasa python
+
+**3 Oktober 2023**<br>
+* Belajar mengenai inputan di python
